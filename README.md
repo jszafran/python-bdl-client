@@ -8,6 +8,7 @@ A Python library allowing for interaction with [Bank Danych Lokalnych](https://b
 - Making BDL data more accessible for Python users.
 - Going through an exercise of publishing a package on The Python Package Index.
 - Learning something new.
+- Supporting my "52 post in 2024 blogging challenge" on my [personal blog](https://jszafran.dev).
 
 ## Goals tracker
 - [ ] Python client for BDL
